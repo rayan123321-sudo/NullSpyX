@@ -5,7 +5,7 @@
   
 <h5>About the tool <strong>NullSpyX</strong> </h5>
 <h5>======================</h5>
-<p>An ip exposer and front camera hacking tool(<strong>CamHack</strong>) By
+<p>An ip exposer and front camera hacking tool(<strong>NullSpyX</strong>) By
 Sending A Link .</p>
 <P2>Its a simple beginer friendly tool made by<strong>Nullvex</strong> </P2>
 
