@@ -16,7 +16,7 @@ Sending A Link .</p>
 <h6>$ pkg install php -y </h6>
 <h6>$ pkg install openssh -y </h6>
 <h6>$ pkg install wget -y </h6>
-<h6>$ git clone https://github.com/rayan123321-sudo/NullSpyX.git</h6>
+<h6>$ git clone https://github.com/VulnVex/NullSpyX.git</h6>
 <h6>$ cd NullSpyX
 <h6>$ chmod +x *</h6>
 <h6>$ bash start.sh</h6>
